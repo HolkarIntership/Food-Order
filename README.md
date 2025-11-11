@@ -42,7 +42,7 @@ A modern, responsive food ordering web application built with React and Tailwind
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/VickyNarvare/Advance-Food-Ordering-App.git
+   git clone https://github.com/HolkarIntership/Food-Order.git
    cd Advance-Food-Ordering-App
    ```
 
