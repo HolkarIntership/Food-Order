@@ -178,13 +178,6 @@ The app uses **localStorage** to persist:
 
 This project is open source and available under the MIT License.
 
-## 👨‍💻 Author
-
-**Vicky Narvare**
-
-- GitHub: [@VickyNarvare](https://github.com/VickyNarvare)
-- Repository: [Advance-Food-Ordering-App](https://github.com/VickyNarvare/Advance-Food-Ordering-App)
-
 ## 🙏 Acknowledgments
 
 - Images from Unsplash
